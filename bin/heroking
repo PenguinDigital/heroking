@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'heroking'
+require 'heroking/cli'
+
+Heroking::CLI.start
